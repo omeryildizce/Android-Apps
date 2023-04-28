@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="welcome_text">Unit Concerter App</string>
+    <string name="result_text">0</string>
+    <string name="value_of_kilos_edit_text">Enter the Value of Kilos</string>
+    <string name="convert_button">Convert</string>
+</resources>
